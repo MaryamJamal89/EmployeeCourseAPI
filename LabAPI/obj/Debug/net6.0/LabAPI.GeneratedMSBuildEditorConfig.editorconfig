@@ -1,0 +1,16 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LabAPI
+build_property.RootNamespace = LabAPI
+build_property.ProjectDir = D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\33- API\Day01\LabAPI\LabAPI\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\33- API\Day01\LabAPI\LabAPI
+build_property._RazorSourceGeneratorDebug = 
